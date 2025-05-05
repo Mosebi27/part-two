@@ -5,7 +5,7 @@ I used a color rgb(111,202,220) which is color blue.
 
 I used text align on the center.
 
-I addited font-family.
+I addited font-family 'lucida sans;lucida sans regular.
 
 On Index Page i addited Footer.
 
