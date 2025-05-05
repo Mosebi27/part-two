@@ -15,6 +15,6 @@ The new style css is <div> and ul{.
 
 I used the horizontal navigation bar.
 
-Iadded a logoin all pages.
+I added a logoin all pages.
 
 new picture of my product on Service page.
